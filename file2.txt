@@ -2,3 +2,6 @@ this is my file two for git course
 adding more content in this file
 
 add another marketing message section
+
+
+added footer note
