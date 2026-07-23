@@ -2,3 +2,7 @@ I am a fix file which will be used to fix the bug
 fixed another bug and one more
 Fourth bug fixed
 fifth bug fixed
+
+pinkmode fix - one more bug fixed.
+
+another fix message for pink mode 
